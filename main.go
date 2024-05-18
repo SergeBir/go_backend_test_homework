@@ -1,3 +1,4 @@
+// учебный проект
 package main
 
 import (
